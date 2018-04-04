@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="title">
+        <item>หัวข้อที่ 1</item>
+        <item>หัวข้อที่ 2</item>
+        <item>หัวข้อที่ 3</item>
+        <item>หัวข้อที่ 4</item>
+        <item>หัวข้อที่ 5</item>
+        <item>หัวข้อที่ 6</item>
+        <item>หัวข้อที่ 7</item>
+        <item>หัวข้อที่ 8</item>
+        <item>หัวข้อที่ 9</item>
+        <item>หัวข้อที่ 10</item>
+        <item>หัวข้อที่ 11</item>
+        <item>หัวข้อที่ 12</item>
+        <item>หัวข้อที่ 13</item>
+        <item>หัวข้อที่ 14</item>
+        <item>หัวข้อที่ 15</item>
+        <item>หัวข้อที่ 16</item>
+        <item>หัวข้อที่ 17</item>
+        <item>หัวข้อที่ 18</item>
+        <item>หัวข้อที่ 19</item>
+        <item>หัวข้อที่ 20</item>
+    </string-array>
+    <string-array name="detail">
+        <item>รายละอียดที่ 1 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 2 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 3 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 4 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 5 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 6 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 7 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 8 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 9 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 10 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 11 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 12 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 13 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 14 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 15 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 16 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 17 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 18 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 19 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+        <item>รายละอียดที่ 20 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</item>
+
+    </string-array>
+
+</resources>
+
+

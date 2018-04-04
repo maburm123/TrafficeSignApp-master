@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\37-SDU\Desktop\burm\TrafficeSignApp-master\TrafficeSignApp.iml" filepath="C:\Users\37-SDU\Desktop\burm\TrafficeSignApp-master\TrafficeSignApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrafficeSignApp-master.iml" filepath="$PROJECT_DIR$/TrafficeSignApp-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\37-SDU\Desktop\burm\TrafficeSignApp-master\app\app.iml" filepath="C:\Users\37-SDU\Desktop\burm\TrafficeSignApp-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
