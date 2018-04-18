@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ป้ายจราจรน่ารู้</string>
+    <string name="my_name">นายกฤตบุญ อัตตเกษม</string>
+    <string name="my_major">หลักสูตรวิยาการคอมพิวเตอรคณะวิทยาศาสตร์และเทคโนโลยี์</string>
+    <string name="my_university">คณะวิทยาศาสตร์และเทคโนโลยี</string>
+    <string name="my_mobile">เบอร์ติดต่อ 0983321308</string>
+    <string name="my_facebook">https://www.facebook.com/krittabun.attakasem</string>
 </resources>
